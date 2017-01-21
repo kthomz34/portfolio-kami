@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+title: BlocJams
+thumbnail-path: "img/bloc_jams_home.png"
+short-description: BlocJams a spotify clone.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/bloc_jams_home.png)
 
 ## Explanation
 
